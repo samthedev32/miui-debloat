@@ -3,6 +3,9 @@
 # debloat-er for MIUI 12.5 (Pine)
 # https://xiaomifirmwareupdater.com/miui/pine/stable/V12.5.3.0.QCMEUXM/
 
+
+# TODO: https://technastic.com/xiaomi-bloatware-list-miui/
+
 # List connected devices
 adb devices
 
@@ -47,6 +50,20 @@ packages=(
 "com.mi.globalbrowser" # we'll have firefox, remember?
 "com.miui.videoplayer" # just use vlc
 "com.miui.player" # can't you afford spotify?
+
+"com.miui.analytics"
+"com.miui.hybrid"
+"com.miui.hybrid.accessory"
+"com.miui.msa.global"
+"com.miui.phrase"
+"com.miui.miservice"
+
+"com.xiaomi.midrop" # i never use these stuff
+"com.miui.cleanmaster" # takes up more space than cleans
+"com.xiaomi.calendar"
+"com.miui.cloudbackup"
+"com.miui.backup"
+
 )
 
 # Uninstall packages using ADB
