@@ -10,13 +10,16 @@ I am testing and making this for [THIS MIUI VERSION](https://xiaomifirmwareupdat
 #include <std_disclaimer.h>
 
 /*
-* Your warranty is now void.
+* Your warranty may or may not be void.
 *
-* We are not responsible for bricked devices, dead SD cards,
-* thermonuclear war or you getting fired because the alarm app failed. Please
-* do some research if you have any concerns about features included in this ROM
-* before flashing it! YOU are choosing to make these modifications and if
-* you point the finger at us for messing up your device, we will laugh at you. Hard & a lot.
+* I am not responsible for bricked devices, dead SD cards,
+* thermonuclear war or you getting fired because the alarm app is gone. Please
+* back up your device and/or get a backup one before debloating it!
+* YOU are choosing to debloat and POSSIBLY BRICK your device and if
+* you point your finger at me for messing up your device, I will laugh at you.
+*
+* If you DO MANAGE to brick your device (which may happen, idk), then you can reflash it using the (probably unofficial)
+* MiFlash tool, but you will have to research it yourself, as i am not going to document it just yet.
 *
 */
 ```
