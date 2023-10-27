@@ -9,9 +9,6 @@ I am testing and making this for [THIS MIUI VERSION](https://xiaomifirmwareupdat
 ## Usage
 
 <details>
-  
-<summary>Disclaimer<summary>
-  
 ```CPP
 #include <std_disclaimer.h>
 
@@ -26,5 +23,4 @@ I am testing and making this for [THIS MIUI VERSION](https://xiaomifirmwareupdat
 *
 */
 ```
-
 </details>
