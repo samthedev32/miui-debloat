@@ -6,8 +6,6 @@ I am testing and making this for [THIS MIUI VERSION](https://xiaomifirmwareupdat
 > [!NOTE]
 > This project was helped by [this gist](https://gist.github.com/Biswa96/81fe477079fa5279f7cfd7b98d5519c7)
 
-#### Disclaimer
-
 ```CPP
 #include <std_disclaimer.h>
 
