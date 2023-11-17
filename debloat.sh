@@ -54,9 +54,9 @@ packages=(
 "com.miui.analytics"
 "com.miui.hybrid"
 "com.miui.hybrid.accessory"
-"com.miui.msa.global"
+#"com.miui.msa.global"
 "com.miui.phrase"
-"com.miui.miservice"
+#"com.miui.miservice"
 
 "com.xiaomi.midrop" # i never use these stuff
 "com.miui.cleanmaster" # takes up more space than cleans
