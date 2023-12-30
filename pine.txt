@@ -6,6 +6,9 @@ com.miui.player
 com.miui.notes
 com.miui.miservice
 com.miui.android.fashiongallery
+com.miui.yellowpage
+
+com.miui.home
 
 com.mi.android.globalFileexplorer
 com.mi.globalbrowser
