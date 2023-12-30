@@ -16,6 +16,7 @@ com.mi.globalbrowser
 com.xiaomi.calendar
 com.xiaomi.scanner
 com.xiaomi.midrop
+com.xiaomi.payment
 
 cn.wps.moffice_eng
 cn.wps.xiaomi.abroad.lite
